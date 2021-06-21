@@ -1,2 +1,7 @@
 # conet
-Co-occurrence Neural Networks for Collaborative Filtering
+
+CoNet: Co-occurrence Neural Networks for Recommendation
+
+中文介绍：http://snailwish.com/383/
+
+主要库版本：tensorflow 1.14.0 和 pytorch 1.6.0
